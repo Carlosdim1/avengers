@@ -2,3 +2,4 @@
 
 * Jocker
 * Daredevil
+* Dr. Strange
